@@ -1,4 +1,4 @@
-
+# Concepts addressed: Prompt, Shell, Argument, 
 ~/command-line-1-4-PeterK-UWP$ ls
 1-WhatIsTheShell.txt  3-ExploringTheSystemOutput.txt         README.md
 2-Navigation.txt      4-ManipulatingFilesAndDirectories.txt
